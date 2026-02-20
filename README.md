@@ -15,10 +15,10 @@
 
 #### Темы задач:
 
-1. [Лингвистика и синтаксический разбор текстовых данных](tasks/task1/task.md) - **Реализовано: 100%** ✅ (можно брать в работу)
-2. [Нейронные сети и анализ тональности](tasks/task2/task.md) - **Реализовано: 70%**
-3. [Агенты (langchain)](tasks/task3/task.md) - **Реализовано: 20%**
-4. Сеть агентов - **Реализовано: 0%**
+1. [Лингвистика и синтаксический разбор текстовых данных](https://github.com/Letch49/semantic-vvsu-2026/tree/master/tasks/task1) - **Реализовано: 100%** ✅ (можно брать в работу)
+2. [Нейронные сети и анализ тональности](https://github.com/Letch49/semantic-vvsu-2026/tree/master/tasks/task2) - **Реализовано: 70%**
+3. [Агенты (langchain)](https://github.com/Letch49/semantic-vvsu-2026/tree/master/tasks/task3) - **Реализовано: 20%**
+4. [Сеть агентов](https://github.com/Letch49/semantic-vvsu-2026/tree/master/tasks/task4) - **Реализовано: 0%**
 
 ### Лекции
 
