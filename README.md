@@ -3,6 +3,8 @@
 
 ## Структура курса
 
+> После выкладывания преподавательского решения — все задачи принимаются с −50% баллов.
+
 ### Задачи
 
 Курс включает 4 практические задачи и одну финальную задачу:
@@ -16,7 +18,7 @@
 #### Темы задач:
 
 1. [Лингвистика и синтаксический разбор текстовых данных](https://github.com/Letch49/semantic-vvsu-2026/tree/master/tasks/task1) - **Реализовано: 100%** ✅ (можно брать в работу)
-2. [Нейронные сети и анализ тональности](https://github.com/Letch49/semantic-vvsu-2026/tree/master/tasks/task2) - **Реализовано: 70%**
+2. [Нейронные сети и анализ тональности](https://github.com/Letch49/semantic-vvsu-2026/tree/master/tasks/task2) - **Реализовано: 20%**
 3. [Агенты (langchain)](https://github.com/Letch49/semantic-vvsu-2026/tree/master/tasks/task3) - **Реализовано: 20%**
 4. [Сеть агентов](https://github.com/Letch49/semantic-vvsu-2026/tree/master/tasks/task4) - **Реализовано: 0%**
 
