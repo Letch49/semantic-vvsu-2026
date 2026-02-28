@@ -33,3 +33,6 @@
 4. Агенты
 5. Промпт инжениринг
 6. Системы на основе агентов
+
+### Examples с практик
+- [Пример дообучения qwen с lora для JSON Structed Output судебных заседаний](https://github.com/Letch49/transformet-test-example)
