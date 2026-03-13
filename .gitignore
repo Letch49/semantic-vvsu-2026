@@ -214,5 +214,6 @@ scripts/
 
 results-me.csv
 solution-me-*.ipynb
+answer*.ipynb
 
 ~$*
