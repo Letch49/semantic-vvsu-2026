@@ -6,15 +6,19 @@ readme = "README.md"
 requires-python = ">=3.9,<3.13"
 dependencies = [
  "gensim>=4.4.0",
+ "ipykernel>=6.31.0",
  "jupyterlab>=4.5.5",
  "matplotlib>=3.9.4",
  "networkx>=3.2.1",
+ "numpy>=1.26.4",
  "pandas>=2.3.3",
  "pymorphy3>=2.0.6",
  "razdel>=0.5.0",
  "scikit-learn>=1.6.1",
+ "seaborn>=0.13.2",
  "sentence-transformers>=5.1.2",
  "spacy>=3.8.11",
+ "tensorflow>=2.20.0",
  "tiktoken>=0.12.0",
  "tqdm>=4.67.3",
 ]
