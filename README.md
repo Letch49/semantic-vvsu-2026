@@ -1,4 +1,5 @@
 # semantic-vvsu-2026
+
 Методы обработки семантической информации ВВГУ-2026
 
 ## Структура курса
@@ -21,7 +22,7 @@
 1. [Лингвистика и синтаксический разбор текстовых данных](https://github.com/Letch49/semantic-vvsu-2026/tree/main/tasks/task1) - **Реализовано: 100%** ✅ (можно брать в работу)
 2. [Нейронные сети и анализ тональности](https://github.com/Letch49/semantic-vvsu-2026/tree/main/tasks/task2) - **Реализовано: 100%** ✅ (можно брать в работу)
 3. [Агенты (langchain)](https://github.com/Letch49/semantic-vvsu-2026/tree/main/tasks/task3) - **Реализовано: 100%** ✅ (можно брать в работу)
-4. [Сеть агентов](https://github.com/Letch49/semantic-vvsu-2026/tree/main/tasks/task4) - **Реализовано: 0%**
+4. [Агентские системы](https://github.com/Letch49/semantic-vvsu-2026/tree/main/tasks/task4) - **Реализовано: 100%** ✅ (можно брать в работу)
 
 ### Лекции
 
@@ -35,4 +36,6 @@
 6. Системы на основе агентов
 
 ### Examples с практик
+
 - [Пример дообучения qwen с lora для JSON Structed Output судебных заседаний](https://github.com/Letch49/transformet-test-example)
+
